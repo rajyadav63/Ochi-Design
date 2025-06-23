@@ -39,7 +39,7 @@ npm install
 
 # Start the development server
 npm run dev
-
+```
 
 📌 # Acknowledgements
 Ochi Design – Original website inspiration
@@ -47,4 +47,3 @@ Ochi Design – Original website inspiration
 Framer Motion – For animations
 
 Tailwind CSS Docs – For styling
-```
