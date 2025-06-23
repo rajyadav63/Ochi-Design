@@ -41,7 +41,8 @@ npm install
 npm run dev
 ```
 
-📌 # Acknowledgements
+# 📌 Acknowledgements
+
 Ochi Design – Original website inspiration
 
 Framer Motion – For animations
